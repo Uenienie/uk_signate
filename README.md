@@ -1,3 +1,4 @@
 # uk_signate
 
-signateのコンペで使うよ
+signate
+[第1回ビギナー限定コンペ]
